@@ -18,8 +18,8 @@
 - Open-source projects related to cloud computing and network security
 
 ## 📫 How to reach me:
-- **Email:** kdawtech@example.com (replace with your actual email)
-- **LinkedIn:** https://www.linkedin.com/in/kevon-dawkins-9a4a85221/(#) (replace with your actual LinkedIn profile)
+- **Email:** kevon.dawkins@outlook.com 
+- **LinkedIn:** https://www.linkedin.com/in/kevon-dawkins-9a4a85221/
 
 ## 😄 Pronouns:
 - He/Him
