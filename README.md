@@ -14,7 +14,6 @@
 
 ## 💞️ I’m looking to collaborate on:
 - IoT projects that involve smart home automation
-- Cybersecurity research, especially in malware investigation
 - Open-source projects related to cloud computing and network security
 
 ## 📫 How to reach me:
