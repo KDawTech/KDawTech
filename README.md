@@ -19,6 +19,7 @@
 ## 📫 How to reach me:
 - **Email:** kevon.dawkins@outlook.com 
 - **LinkedIn:** https://www.linkedin.com/in/kevon-dawkins-9a4a85221/
+- **Portfolio:** https://kdawtech.netlify.app/
 
 ## 😄 Pronouns:
 - He/Him
