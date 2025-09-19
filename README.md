@@ -25,7 +25,7 @@
 - He/Him
 
 ## ⚡ Fun fact:
-- I always carry a 64oz water bottle wherever I go! :)
+- I always carry a 64oz water bottle wherever I go :)
 
 
 
