@@ -10,7 +10,7 @@
 ## 🌱 I’m currently learning:
 - Malware analysis using Azure Lab Services
 - Advanced operating systems concepts
-- Building interactive IoT projects with Arduino projects
+- Building interactive IoT projects with Arduino
 
 ## 💞️ I’m looking to collaborate on:
 - IoT projects that involve smart home automation
