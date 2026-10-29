@@ -1,5 +1,8 @@
 
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Kevon+Dawkins;Computer+Science+Graduate;AI+%26+Software+Developer;IT+%7C+Cybersecurity+%7C+Engineering" alt="Animated introduction" />
+</div>
 
 # Hey, I'm Kevon Dawkins 👋
 
@@ -72,6 +75,11 @@ Explore my software, AI, and engineering projects.
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KDawTech&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
 ## 📊 GitHub Statistics
 
