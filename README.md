@@ -22,7 +22,7 @@ I'm Kevon, a Computer Science graduate from Queens College, CUNY, with a backgro
 My interests span software development, IT infrastructure, computer networking, cybersecurity, and hardware engineering. I enjoy working on projects that challenge me to understand how technology works, troubleshoot problems, and build practical solutions.
 
 - 🎓 **Education:** B.S. Computer Science — Queens College, CUNY
-- 💼 **Experience:** Digital Intern — Vanguard Digital
+- 💼 **Experience:** Digital Intern — Vanguard Digital(Currently)
 - 🖥️ **Career Interests:** IT Support, Systems Administration, Networking, and Software Development
 - 🔧 **Hands-on Interests:** Computer Hardware, Electronics, Arduino, and Embedded Systems
 - 📚 **Currently Learning:** Advanced Web Development, Networking, and IT Infrastructure
