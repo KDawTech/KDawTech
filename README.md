@@ -72,15 +72,17 @@ Explore my software, AI, and engineering projects.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KDawTech&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KDawTech&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KDawTech&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=KDawTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
 
 ---
 
