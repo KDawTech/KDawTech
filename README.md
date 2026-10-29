@@ -75,10 +75,11 @@ Explore my software, AI, and engineering projects.
 
 ---
 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KDawTech&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=KDawTech&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ## 📊 GitHub Statistics
