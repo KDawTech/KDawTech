@@ -124,17 +124,17 @@ My personal website highlighting my technical skills, experience, and projects.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=KDawTech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+![GitHub Stats](./profile/stats.svg)
 
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KDawTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+![Top Languages](./profile/top-langs.svg)
 
 </div>
+
 
 ---
 
