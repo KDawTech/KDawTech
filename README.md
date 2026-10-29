@@ -138,13 +138,11 @@ My personal website highlighting my technical skills, experience, and projects.
 
 ---
 
+
 ## 📈 Contribution Activity
 
-<div align="center">
+[![View My GitHub Contributions](https://img.shields.io/badge/View_My_Contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KDawTech?tab=overview)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KDawTech&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
-
-</div>
 
 ---
 
