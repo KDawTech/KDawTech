@@ -6,7 +6,7 @@
 
 # Hey, I'm Kevon Dawkins 👋
 
-### Computer Science Graduate | Software Development | AI | IT
+### Computer Science Graduate | Software Development | IT
 
 Building practical solutions through software, artificial intelligence, and engineering.
 
@@ -22,7 +22,7 @@ Building practical solutions through software, artificial intelligence, and engi
 
 - 🎓 B.S. in Computer Science — Queens College, CUNY
 - 💼 Digital Intern — Vanguard
-- 🤖 Exploring AI, machine learning, and automation
+- 🤖 Exploring IT, Machine learning, and Automation
 - 🔐 Interested in cybersecurity, networking, and IoT
 - 🛠️ Building full-stack applications and hardware projects
 - 🤝 Open to collaboration and tech opportunities
@@ -69,7 +69,7 @@ AI-powered music recommendation application.
 Collaborative full-stack food and pantry management application.
 
 ### 🌐 Personal Portfolio
-Explore my software, AI, and engineering projects.
+Explore my software and engineering projects.
 
 [Visit Portfolio](https://kdawtech.netlify.app/)
 
